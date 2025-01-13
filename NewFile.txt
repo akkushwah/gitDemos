@@ -1,2 +1,3 @@
 This is text file.
 Now Update after commit.
+Changed after Staging
